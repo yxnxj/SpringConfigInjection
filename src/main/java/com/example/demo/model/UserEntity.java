@@ -1,6 +1,6 @@
 package com.example.demo.model;
 
 public class UserEntity {
-    String id;
+    String username;
     String password;
 }
